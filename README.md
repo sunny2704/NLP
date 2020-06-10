@@ -9,3 +9,7 @@ Summary of Insights:
 4. On an average movie which are around 2 hour 10 minute to 2 hour 30 minute tend to do better than other movies
 5. According to the analysis, movies with a lot of cuss words do not do well on an average but suprisingly movies with 4-5 occurences of (sh*t) have raked a lot of money.
 6. Movies which are not very opinionated or dark tend to do much better than the ones which are opinionated.
+
+
+
+Reference: https://medium.com/analytics-vidhya/6-techniques-to-kickstart-your-nlp-project-5764f9abf7a5
