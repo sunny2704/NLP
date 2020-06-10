@@ -5,8 +5,7 @@ Summary of Insights:
 
 1. It can tell you the leads characters of the movie based on frequency of their names. This is specially in ensemble movies like Avengers or Justice League
 2. Marvel movies have averge words of around 80-85 compared to over 100 words per minute by DC. Based on the numbers, people prefer slower speecch since it is catering to global audiences
-
-3.People prefer more repetitions of words and not a lot of new words through the entire movie as evident from the analysis
+3. People prefer more repetitions of words and not a lot of new words through the entire movie as evident from the analysis
 4. On an average movie which are around 2 hour 10 minute to 2 hour 30 minute tend to do better than other movies
 5. According to the analysis, movies with a lot of cuss words do not do well on an average but suprisingly movies with 4-5 occurences of (sh*t) have raked a lot of money.
 6. Movies which are not very opinionated or dark tend to do much better than the ones which are opinionated.
